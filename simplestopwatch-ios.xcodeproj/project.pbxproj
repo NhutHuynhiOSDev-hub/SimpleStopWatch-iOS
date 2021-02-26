@@ -95,6 +95,9 @@
 		057FA92B25E895AA00216FA6 /* simplestopwatch-ios */ = {
 			isa = PBXGroup;
 			children = (
+				057FA97325E8967700216FA6 /* Model */,
+				057FA97225E8967200216FA6 /* View */,
+				057FA97025E8962300216FA6 /* ViewModel */,
 				057FA92C25E895AA00216FA6 /* simplestopwatch_iosApp.swift */,
 				057FA92E25E895AA00216FA6 /* ContentView.swift */,
 				057FA93025E895AB00216FA6 /* Assets.xcassets */,
@@ -128,6 +131,27 @@
 				057FA94B25E895AC00216FA6 /* Info.plist */,
 			);
 			path = "simplestopwatch-iosUITests";
+			sourceTree = "<group>";
+		};
+		057FA97025E8962300216FA6 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		057FA97225E8967200216FA6 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		057FA97325E8967700216FA6 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
